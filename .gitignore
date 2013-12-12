@@ -1,0 +1,10 @@
+*.jar.pack.gz
+*.jar
+/classes
+target/
+*.zip
+
+# Eclipse files:
+.classpath
+.project
+.settings/
