@@ -10,7 +10,7 @@ The extension currently provides only the `runs:add-annotation` primitive.
 
 `runs:add-annotation` _text_
 
-If there is a currently selected run in the **Review** tab, and that run is currently being recorded, adds an annotation containing the current (i.e., last) frame of the run. Does nothing otherwise.
+If there is a currently selected run in the **Review** tab, and that run is currently being recorded, adds an annotation containing _text_ at the current (i.e., last) frame of the run. Does nothing otherwise.
 
 ## Building
 
